@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+212605784394', 'NOUR MD', true]
+  ['+212777554973', '+212777554973', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -35,7 +35,7 @@ global.APIKeys = { // APIKey Here
 ]
 
 // Sticker WM
-global.packname = `「 NOUR BOT BY NOUREDDINE 」`
+global.packname = `「 MOHAMED ELAOUNY 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
@@ -43,8 +43,8 @@ global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
 global.me = 'NOUR BOT - 2023'
-global.bott = 'Nour md'
-global.nomorown = '212605784394'
+global.bott = 'simo awni'
+global.nomorown = '212777554973'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
